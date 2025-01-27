@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001239224233",
+    "project_id": "onlineshopapp-7a8e1",
+    "storage_bucket": "onlineshopapp-7a8e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001239224233:android:7e776ca5e6f6cd893feeb8",
+        "android_client_info": {
+          "package_name": "com.rahat.onlineshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7yOUu7pSEMCY_t41oLvmbqXu4PZTP7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
